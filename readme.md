@@ -12,6 +12,7 @@
    - É um serviço de computação sem servidor que permite ao desenvolvedor executar código em resposta a eventos. Como a chamada de uma API upload de arquivo, atualização de banco de dados entre outros.
    - Para um código sendo utilizados apenas a quantidade tempo de execução e quantidade de memória memória, que podem ser configurados préviamente.
     Tempo de execução variando de 3s a 15min
+    
 **Principais Componentes**
   - **Eventos**: Desencadeia a execução de uma função
   - **Funções**: Unidade independente da implantação
