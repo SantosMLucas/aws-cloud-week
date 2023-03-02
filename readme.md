@@ -13,9 +13,9 @@
    - Para um código sendo utilizados apenas a quantidade tempo de execução e quantidade de memória memória, que podem ser configurados préviamente.
     Tempo de execução variando de 3s a 15min
 **Principais Componentes**
-    **Eventos**: Desencadeia a execução de uma função
-    **Funções**: Unidade independente da implantação
-    **Recursos**: Componentes usados pela função
+  - **Eventos**: Desencadeia a execução de uma função
+  - **Funções**: Unidade independente da implantação
+  - **Recursos**: Componentes usados pela função
   - **Caracteristicas**
     1- Aplicação deve ser construida com funções desacopladas;
     2- Statless functions: Os containers são destruidos após a execução da função, não armazenando seu estado;
